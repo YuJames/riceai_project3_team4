@@ -1,3 +1,4 @@
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -18,3 +19,5 @@ To use a CNN to classify cat images by their species. An additional consideratio
 ## Files n Folders  
 
 ## Presentation
+
+https://docs.google.com/presentation/d/1T1VXZi9YyduC_EWmmda3MBcqboJkAFSVo2XwFRYUlTg/edit?usp=sharing
