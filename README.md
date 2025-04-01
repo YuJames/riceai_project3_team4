@@ -8,8 +8,9 @@
 To use a CNN to classify cat images by their species. An additional consideration is to include non-cat images (e.g. soccer balls) and end up with a situation like [this](https://www.youtube.com/watch?v=ACmydtFDTGs)
 
 ## How-to
-### Download Data
-
+### Download Data       
+1. Modify **1_data.ipynb** as necessary
+2. Execute, and observe results under folder **raw_data**
 ### Create Model
 
 ### Run Analysis
