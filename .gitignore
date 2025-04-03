@@ -6,7 +6,7 @@ __pycache__/
 .history/
 # C extensions
 *.so
-postprocessed_data/lebeled_ingges/*
+postprocessed_data/labeled_images/*
 # Distribution / packaging
 .Python
 build/
