@@ -2,10 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+.vscode/
+.history/
 # C extensions
 *.so
-
+postprocessed_data/lebeled_ingges/*
 # Distribution / packaging
 .Python
 build/
