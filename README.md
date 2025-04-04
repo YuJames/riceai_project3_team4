@@ -18,9 +18,10 @@ To use a CNN to classify cat images by their species. An additional consideratio
 1. Modify **1_data.ipynb** as necessary
 2. Execute, and observe results under folder **raw_data**
 ### Create Model
-
+1. Execute 2_model.ipynb
+2. Alternatively, run 2b_prebuilt_model.ipynb to leverage a prebuilt model
 ### Run Analysis
-
+1. Execute 3_analysis.ipynb, and observe results
 ## Files n Folders  
 
 ## Presentation
