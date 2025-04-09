@@ -175,3 +175,4 @@ cython_debug/
 .pypirc
 
 raw_data/cat-breeds-dataset/
+postprocessed_data/labeled_imgs
