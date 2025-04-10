@@ -16,14 +16,15 @@ To use a CNN to classify cat images by their species. An additional consideratio
 > conda activate \<name\>
 ### Download Data       
 1. Modify **1_data.ipynb** as necessary
-2. Execute, and observe results under folder **raw_data**
-### Create Model
-1. Execute 2_model.ipynb
-2. Alternatively, run 2b_prebuilt_model.ipynb to leverage a prebuilt model
+2. Execute, and observe results under folder **raw_data** and  **postprocessed_data**
 ### Run Analysis
-1. Execute 3_analysis.ipynb, and observe results
+1. Execute **2b_prebuilt_model.ipynb** to leverage a prebuilt model and observe results
 ## Files n Folders  
-
+:paperclip: 1_data.ipynb - getting the kaggle data       
+:paperclip: 2b_prebuilt_model.ipynb - running the evaluation
+:card_index_dividers: raw_data - raw input data     
+:card_index_dividers: postprocessed_data - processed data from **raw_data**     
+:card_index_dividers: archive - ultimately irrelevant material for final submission
 ## Presentation
 
 https://docs.google.com/presentation/d/1T1VXZi9YyduC_EWmmda3MBcqboJkAFSVo2XwFRYUlTg/edit?usp=sharing
